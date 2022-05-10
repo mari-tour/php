@@ -1,0 +1,3 @@
+Parmi les variables suivantes, lesquelles ont un nom valide : $a, $_a, $a_a, $AAA, $a!, $1a et $a1 ?
+Seules les variables $a, $_a, $a_a, $AAA et $a1 ont un nom valide en PHP.
+ $1a n'est pas un nom de variable valide car il commence par un chiffre, tandis que $1a est également incorrect car il contient un caractère interdit.
